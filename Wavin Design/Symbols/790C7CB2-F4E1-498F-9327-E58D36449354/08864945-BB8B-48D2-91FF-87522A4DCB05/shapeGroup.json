@@ -1,0 +1,171 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "08864945-BB8B-48D2-91FF-87522A4DCB05",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EB8C7FE2-0627-45DA-9055-41D6FB3E3E6A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "11632845-4245-4FE0-B6CA-2FA7FC016EFB",
+    "height": 193.101895588674,
+    "width": 384,
+    "x": 64,
+    "y": 126
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "9E626F2A-4A8E-4D78-AC91-743F808672A8"
+    }
+  ],
+  "name": "Path 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "87C5D878-E6C0-4D22-B4EE-D004A0BD643F",
+      "isEnabled": false,
+      "lineCapStyle": 1,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{-2.2204460492503131e-16, 0.50000000000000022}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9137254901960784,
+                "green": 0.5019607843137255,
+                "red": 0.3372549019607843
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9215686274509803,
+                "green": 0.8078431372549022,
+                "red": 0.5176470588235293
+              },
+              "position": 0.395479588150289
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8941176470588235,
+                "green": 0.7843137254901961,
+                "red": 0.7568627450980392
+              },
+              "position": 0.6897353684971098
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8156862745098039,
+                "green": 0.3764705882352941,
+                "red": 0.5333333333333331
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.99999999999999978, 0.49999999999999972}"
+        },
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 32
+      }
+    ],
+    "do_objectID": "B3AEDB46-3F94-430C-938D-1420097DCA4A",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 193.1019,
+            "enabled": 1,
+            "modelID": "constraint_3785d51d-de9c-4e53-9b6d-da7a5204456d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 384
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_ebb535bc-8da2-413d-b3b5-f834aebb75cf",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

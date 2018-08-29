@@ -1,0 +1,145 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9137254901960784,
+        "green": 0.5019607843137255,
+        "red": 0.3372549019607843
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9215686274509803,
+        "green": 0.8078431372549022,
+        "red": 0.5176470588235293
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9176470588235294,
+        "green": 0.7254901960784315,
+        "red": 0.3529411764705882
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8156862745098039,
+        "green": 0.3764705882352941,
+        "red": 0.5333333333333331
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9637276785714286,
+        "green": 0.6961586361839659,
+        "red": 0.7917190084652024
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8941176470588235,
+        "green": 0.7843137254901961,
+        "red": 0.7568627450980392
+      }
+    ],
+    "gradients": [
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0, 0}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.9137254901960784,
+              "green": 0.5019607843137255,
+              "red": 0.3372549019607843
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.9176470588235294,
+              "green": 0.7254901960784315,
+              "red": 0.3529411764705882
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.96488599577430911, 0.96488599577430911}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{1, 1}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.9176470588235294,
+              "green": 0.7254901960784315,
+              "red": 0.3529411764705882
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.8156862745098039,
+              "green": 0.3764705882352941,
+              "red": 0.5333333333333331
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0, 0}"
+      }
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "710CBB25-66AA-46EF-813F-46C26068610D",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "51.2",
+    "build": 57519,
+    "version": 105
+  },
+  "pages": [
+    "Style Guide",
+    "Prototype",
+    "Drafts",
+    "Symbols"
+  ]
+}

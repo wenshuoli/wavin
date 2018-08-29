@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "5121EABE-D8F5-4F83-89D5-4D5481D8B296",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D36DF2B0-C628-4E0A-8707-7036F1142E9A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC7F7DAA-A8DA-49CB-8321-70B0054C3E77",
+    "height": 132,
+    "width": 415,
+    "x": 299,
+    "y": 74
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / Textarea",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E55BDC1-08EF-4377-A8E9-7CA9A08CD09D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3016CC55-38F5-4A42-80C5-8FA211BC0F5C",
+  "verticalSpacing": 0
+}

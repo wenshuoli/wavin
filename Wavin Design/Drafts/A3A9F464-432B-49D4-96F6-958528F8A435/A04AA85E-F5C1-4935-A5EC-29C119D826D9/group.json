@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "A04AA85E-F5C1-4935-A5EC-29C119D826D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0CC3D4D4-CA82-4FA5-AC37-77C396EE216C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D672128C-4257-4094-868F-4DE4AA71E043",
+    "height": 800,
+    "width": 360,
+    "x": 944,
+    "y": 171
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FCC3189B-AC35-43E8-9372-F2639AFD7715"
+    },
+    {
+      "class": "text",
+      "id": "5ADA917E-6DE6-446F-9643-5F92B0797DDB"
+    }
+  ],
+  "name": "Join Event Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "94D4E53C-4EFB-4A28-B354-F8BEBA77BCC8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

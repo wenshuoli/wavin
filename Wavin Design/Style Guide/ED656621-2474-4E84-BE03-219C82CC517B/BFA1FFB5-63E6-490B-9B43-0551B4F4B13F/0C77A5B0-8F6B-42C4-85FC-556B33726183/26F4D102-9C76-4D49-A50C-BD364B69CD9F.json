@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "26F4D102-9C76-4D49-A50C-BD364B69CD9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "85251808-5CB8-4E59-9F4B-D915D131D068",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A73BD09-8C84-45C3-92C6-6E68BAC7E2F0",
+    "height": 18,
+    "width": 117,
+    "x": 299,
+    "y": 239
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / Radio",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "57116EFB-A83F-466F-8D88-ADF05110E231",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C712A18D-695E-4CEE-8C5C-66CAF199AE9B",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "BE92809C-5216-48EC-8BA2-8ACF3FCB17D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B39EE982-891F-41FA-9DF2-9F15F7ABDDF3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "AC05CB1D-7007-4491-AC44-E9035E7E2089",
+    "height": 128,
+    "width": 128,
+    "x": 125,
+    "y": 368
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/878161822b6805de574edca18daac67f834fac8d.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Logo Large",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "816FE165-3492-4342-8E7C-5AF0C6699C00",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

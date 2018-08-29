@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "6801A8DF-1EA5-479A-8148-012359894D68",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "998178B3-0E59-4337-8AD7-B64EE3E69FAF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "24E492AC-FA69-4915-A84C-C720A21354F0",
+    "height": 150,
+    "width": 853,
+    "x": 0,
+    "y": 1505
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "5A2CAC85-6F75-4675-B8F0-C418C9F2DBC5"
+    },
+    {
+      "class": "group",
+      "id": "15B5E375-23ED-4D5C-A186-4859BB41EE07"
+    }
+  ],
+  "name": "Blockquote",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1E78DC01-6759-4840-9723-8136DFE82080",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

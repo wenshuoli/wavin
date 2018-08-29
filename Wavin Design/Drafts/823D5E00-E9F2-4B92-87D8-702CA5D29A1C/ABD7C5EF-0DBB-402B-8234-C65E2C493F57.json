@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "ABD7C5EF-0DBB-402B-8234-C65E2C493F57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E417AE3D-8318-4B66-9B29-4A1B510A1F27",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A7E6DED7-8A12-440A-9097-C9E152F6B538",
+    "height": 48,
+    "width": 160,
+    "x": 1174,
+    "y": 40
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button / Secondary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "190B015E-A172-414B-99C1-94F80199C511",
+      "overrideName": "5F936AB0-65AA-4790-A543-927D27CCA4EC_stringValue",
+      "value": "Admin"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4468AF3D-D455-4E30-BAB8-7A07D41A6D12",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "132B6041-A871-43F8-992F-298A8AE3B196",
+  "verticalSpacing": 0
+}

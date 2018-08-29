@@ -1,0 +1,114 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "80210DFF-82DB-4382-B114-BC79D03E0FBC",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "B981C821-35C2-424C-B750-D184EDF2D8C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CC0B60AB-187A-4951-A636-6AF072671AF0",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E98FDAB4-2351-438F-BF62-632750779531",
+    "height": 1024,
+    "width": 1366,
+    "x": 12922,
+    "y": -40
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "67C9E0A4-774C-4A47-B6DA-93A38CC7E45B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0C19321D-B2F4-4D4B-BAE2-D98E3578963A"
+    },
+    {
+      "class": "group",
+      "id": "1E176CFD-1980-4C75-9A71-8290613EDD5D"
+    },
+    {
+      "class": "text",
+      "id": "679E3537-F82A-4568-B387-E1A068B537C3"
+    },
+    {
+      "class": "text",
+      "id": "BABA2157-1F58-4651-AE7E-CE2294BC9F6D"
+    },
+    {
+      "class": "group",
+      "id": "B9B7DB7A-EA55-4B7E-9F1D-66A54209BA6D"
+    },
+    {
+      "class": "group",
+      "id": "19F65E67-5771-4700-9622-13134AA97612"
+    }
+  ],
+  "name": "Confirm Event Location",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "iPad Pro",
+    "offersLandscapeVariant": 1,
+    "width": 1366
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B02CD23A-21E7-485C-AAE0-7280761A677E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "787A737C-8337-4437-BBEE-46CD2114A4FF",
+    "guides": [
+    ]
+  }
+}

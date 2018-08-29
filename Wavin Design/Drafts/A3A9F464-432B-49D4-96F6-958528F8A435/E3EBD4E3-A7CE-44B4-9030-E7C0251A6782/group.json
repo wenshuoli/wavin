@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "E3EBD4E3-A7CE-44B4-9030-E7C0251A6782",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "49F91F81-5037-45E6-85F5-649585E64969",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF589C54-86CE-457A-A2A6-96D3D2879B14",
+    "height": 64,
+    "width": 220,
+    "x": 64,
+    "y": 32
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D8BBEA11-711D-4051-B8A8-119EB3E08861"
+    },
+    {
+      "class": "text",
+      "id": "9204FB9D-65C5-4335-B1A4-25376E3F173C"
+    }
+  ],
+  "name": "Logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4FA5CB2A-1B24-427B-AD6E-FA1B5B301A01",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

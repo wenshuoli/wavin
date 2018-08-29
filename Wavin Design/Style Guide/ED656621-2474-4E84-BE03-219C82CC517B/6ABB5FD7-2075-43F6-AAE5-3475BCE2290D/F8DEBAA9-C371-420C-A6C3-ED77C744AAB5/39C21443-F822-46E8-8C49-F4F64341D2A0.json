@@ -1,0 +1,182 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Lato-Bold",
+              "size": 72
+            }
+          },
+          "kerning": -0.8750002,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 5,
+        "location": 0
+      }
+    ],
+    "string": "Wavin"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "do_objectID": "39C21443-F822-46E8-8C49-F4F64341D2A0",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C8339B30-C478-455F-94B0-72119EAEFACA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 172,
+    "width": 203,
+    "x": 246.5,
+    "y": 27
+  },
+  "glyphBounds": "{{0, 17}, {197, 55}}",
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Wavin",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BCA49C1F-0046-447B-AB46-20103331F084",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "2D46BA8B-8FF8-4161-88A9-A66E14119C8B",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Lato-Bold",
+            "size": 72
+          }
+        },
+        "kerning": -0.8750002,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "hasMigrated": 1,
+        "photoActions": [
+          {
+            "category": "Beach",
+            "icon": "sun",
+            "index": 0,
+            "mode": "unsplash",
+            "title": "Beach"
+          },
+          {
+            "category": "Kids",
+            "icon": "smile",
+            "index": 1,
+            "mode": "unsplash",
+            "title": "Kids"
+          },
+          {
+            "category": "Nature",
+            "icon": "leaf",
+            "index": 2,
+            "mode": "unsplash",
+            "title": "Nature"
+          }
+        ],
+        "showedChangelogVersion": "1.0.18",
+        "typeActions": [
+          {
+            "id": "names",
+            "index": 0
+          },
+          {
+            "id": "headline",
+            "index": 1
+          },
+          {
+            "id": "article",
+            "index": 2
+          },
+          {
+            "id": "date",
+            "index": 3
+          },
+          {
+            "id": "currency",
+            "index": 4
+          },
+          {
+            "id": "email",
+            "index": 5
+          },
+          {
+            "id": "country",
+            "index": 6
+          },
+          {
+            "id": "city",
+            "index": 7
+          },
+          {
+            "id": "address",
+            "index": 8
+          }
+        ]
+      }
+    }
+  }
+}

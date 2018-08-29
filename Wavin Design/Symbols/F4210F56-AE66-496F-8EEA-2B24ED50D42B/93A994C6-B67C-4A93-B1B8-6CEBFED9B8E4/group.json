@@ -1,0 +1,120 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "93A994C6-B67C-4A93-B1B8-6CEBFED9B8E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 512,
+    "width": 512,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7DE208BD-317C-4BEC-8F01-8C0DF4D81592"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "49019FCA-4B9F-40C7-AD98-0EDCD5F1C97C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "63A4E383-78D1-4066-917A-E74491C6293F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CC69D9E8-075D-40E5-8B53-FAB34ABC072C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E1180533-6CE6-414E-A246-89670F392AB8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5BB26CFE-89A4-411F-BE65-FED0168B1206"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3B1F510A-01DC-4090-9E8E-C60750E14724"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F868F0C6-D5A1-4420-80E8-19ED63DC9DB7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A3C4642B-FBB6-430C-BC45-3BCF7CAAF9C7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5BAE7FBF-ECA8-46BA-82A9-3E91217F6B3F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6489C700-01F8-4D62-81F4-01EE8F2CED55"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2F4FB295-0DF5-4E1E-B089-31454C080A1D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C7339B1B-D881-4D31-8AA0-3D54024D3FC7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8D3789C2-9B85-48AC-A49C-82D15B0E99D2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AF201D69-4F2B-4516-AF4C-2ADBAD97C3E1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EFED133B-44D9-4C9C-8D2F-14057086A129"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5AC1790E-2295-4B6E-9E1A-6527CECBA49C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "38942FE1-4860-483F-A2DB-79CF06E37783"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B152A852-7FFC-478F-8227-7CA85D5E2E55"
+    }
+  ],
+  "name": "microphone",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

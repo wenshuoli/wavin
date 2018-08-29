@@ -1,0 +1,106 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6A59DC23-6460-4803-AE64-ACC15F09B689",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "56B4FF1D-0DCC-48F7-AB95-20B66D8CAEE8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "635CB95F-67CC-4D93-98FA-6E7CCC9099E6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EC8BBDCB-79FD-4A2F-AF26-7485166E7A6B",
+    "height": 1128,
+    "width": 1366,
+    "x": 6025,
+    "y": 3842
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "707A96D2-76DA-4323-8F0C-33D39A95EEBD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "392C7FB6-7BA7-453C-93A6-09B9486FF330"
+    },
+    {
+      "class": "group",
+      "id": "663CFF9D-344C-42B8-89DF-262EEE0E8045"
+    },
+    {
+      "class": "group",
+      "id": "EE62BE4E-2452-4D61-99DD-C254E39E1F99"
+    },
+    {
+      "class": "group",
+      "id": "1F0429AD-639A-4826-A22E-9640C80B2572"
+    }
+  ],
+  "name": "Managing - Edit Event Details",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "iPad Pro",
+    "offersLandscapeVariant": 1,
+    "width": 1366
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "33C4C6BB-ABFA-4BAE-97FD-18CA43B104F6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1230DE92-2FB8-425E-B082-765046BAF538",
+    "guides": [
+    ]
+  }
+}

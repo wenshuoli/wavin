@@ -1,0 +1,114 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "880E86C9-4418-4ABF-A4D8-286BBC8652BF",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "823D5E00-E9F2-4B92-87D8-702CA5D29A1C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A52DBDB-65D8-41C4-BE27-709DD1BCBF5A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EFE6F8D8-FFA4-4632-8CE3-068E725D6AAD",
+    "height": 1024,
+    "width": 1366,
+    "x": -534,
+    "y": -915
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "41256866-66DF-4E67-93CF-3C38F5CD71D4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B337D25B-AB75-4DF1-AE9E-6EDE1E4D642E"
+    },
+    {
+      "class": "group",
+      "id": "7C5D2B90-0C94-4B33-83B0-7AB18ECB74EE"
+    },
+    {
+      "class": "group",
+      "id": "789A3D22-D1B4-4386-AED5-9EB3384DF2B7"
+    },
+    {
+      "class": "group",
+      "id": "5FAC2CBE-D255-4E17-8061-9A801B79B721"
+    },
+    {
+      "class": "group",
+      "id": "BC1CB240-1330-4390-AA81-6DCBD200CF03"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ABD7C5EF-0DBB-402B-8234-C65E2C493F57"
+    }
+  ],
+  "name": "Home Screen",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "iPad Pro",
+    "offersLandscapeVariant": 1,
+    "width": 1366
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7017154B-25EA-46D9-BC61-25BFDC0244E5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "41D1B0D5-1229-4F4D-949C-5BDEE5186D97",
+    "guides": [
+    ]
+  }
+}

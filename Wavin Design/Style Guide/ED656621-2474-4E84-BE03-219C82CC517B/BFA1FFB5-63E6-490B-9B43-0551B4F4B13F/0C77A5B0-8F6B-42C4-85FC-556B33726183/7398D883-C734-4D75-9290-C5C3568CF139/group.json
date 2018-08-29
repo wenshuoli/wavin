@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "7398D883-C734-4D75-9290-C5C3568CF139",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "57B8873B-3EC9-42EE-B0F3-2762798ADD02",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D21C7C78-C198-4C11-86A6-7B976BA0D8A4",
+    "height": 48,
+    "width": 309,
+    "x": 299,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8E58E436-2BFA-44FB-B09B-43DC3A592499"
+    },
+    {
+      "class": "text",
+      "id": "DA1B402B-24CA-480D-A344-FE55D8224E9A"
+    },
+    {
+      "class": "text",
+      "id": "40ECE965-6398-4718-873A-EF3B080CC901"
+    }
+  ],
+  "name": "Form / Text Input",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D1EB6534-0631-4B4B-87BF-3A46C1A404F5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

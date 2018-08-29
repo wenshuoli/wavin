@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "BEE18375-E42A-4830-AB89-CDF41B24E1BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "25A318C9-E1EF-4156-A6D1-822E142A6DC7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E998B02F-A820-4670-A60E-F4594FA3CE10",
+    "height": 48,
+    "width": 309,
+    "x": 299,
+    "y": 340
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / Dropdown",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC39277D-C554-4664-B7E0-EA01FEBD0B25",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "17DB26A7-70D7-4D3A-A435-DF37F164BFBE",
+  "verticalSpacing": 0
+}

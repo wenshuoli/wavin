@@ -67,10 +67,6 @@
     },
     {
       "class": "text",
-      "id": "F164F254-CECF-4C97-8DB1-7CBB47820F3E"
-    },
-    {
-      "class": "text",
       "id": "AEF87403-32A1-4D35-9DED-9795C388C682"
     },
     {
@@ -80,6 +76,10 @@
     {
       "class": "group",
       "id": "5616B853-B587-42B9-AA30-FECEA3D8F086"
+    },
+    {
+      "class": "group",
+      "id": "B0E6E2A4-28AB-432A-BCFE-F4B23E855E18"
     }
   ],
   "name": "Confirm Event Time ",

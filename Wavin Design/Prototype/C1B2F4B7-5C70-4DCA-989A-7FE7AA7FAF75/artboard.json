@@ -67,10 +67,6 @@
     },
     {
       "class": "text",
-      "id": "1E65C591-A72B-4965-990D-B131DDC6763A"
-    },
-    {
-      "class": "text",
       "id": "A5146C57-CEF7-43E1-A5FD-75AF593C16D0"
     },
     {
@@ -84,6 +80,10 @@
     {
       "class": "text",
       "id": "5185027A-5FD5-42C5-80CA-ECB5162333B9"
+    },
+    {
+      "class": "group",
+      "id": "C813DD01-063C-4E87-BD67-30AE5F05D72A"
     }
   ],
   "name": "Input Event Location Recording",

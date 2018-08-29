@@ -66,10 +66,6 @@
       "id": "0DBAC6A9-F9A5-4DB7-B2C3-36F40E48CCBD"
     },
     {
-      "class": "text",
-      "id": "C3899A28-9F5A-429E-94CD-FE7CBF31CB47"
-    },
-    {
       "class": "group",
       "id": "F73867A9-26A7-45E5-BAB6-0E303D51D4B8"
     },
@@ -84,6 +80,10 @@
     {
       "class": "text",
       "id": "CEB13E34-95EB-479B-A5D4-F4F1A9065462"
+    },
+    {
+      "class": "group",
+      "id": "10289EA6-FE25-46E0-9D51-8EB4A85D9407"
     }
   ],
   "name": "Input Event Location",

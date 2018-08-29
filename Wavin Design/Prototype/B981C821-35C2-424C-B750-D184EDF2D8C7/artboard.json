@@ -67,10 +67,6 @@
     },
     {
       "class": "text",
-      "id": "679E3537-F82A-4568-B387-E1A068B537C3"
-    },
-    {
-      "class": "text",
       "id": "BABA2157-1F58-4651-AE7E-CE2294BC9F6D"
     },
     {
@@ -80,6 +76,10 @@
     {
       "class": "group",
       "id": "19F65E67-5771-4700-9622-13134AA97612"
+    },
+    {
+      "class": "group",
+      "id": "48504038-7105-4378-B27C-76514FDAEFBC"
     }
   ],
   "name": "Confirm Event Location",

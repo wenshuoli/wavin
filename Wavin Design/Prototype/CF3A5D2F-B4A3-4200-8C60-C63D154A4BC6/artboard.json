@@ -66,10 +66,6 @@
       "id": "2BB3BF7E-51F4-4FE2-AD9D-0A3F2B24A14C"
     },
     {
-      "class": "text",
-      "id": "2C29B658-8A59-4DA5-BB47-04AAB6A8D7A5"
-    },
-    {
       "class": "symbolInstance",
       "id": "CBE47550-586F-4EA5-92CE-7BA2D2663D41"
     },
@@ -84,6 +80,10 @@
     {
       "class": "text",
       "id": "83A41436-4C0B-4657-80D4-F5C33585ED24"
+    },
+    {
+      "class": "group",
+      "id": "82AC556F-2F3B-4931-8EE5-FF5A56B4475A"
     }
   ],
   "name": "Input Event Description Recording",

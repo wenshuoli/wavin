@@ -66,16 +66,16 @@
       "id": "0F5AF9AC-5BBE-4F9E-9D96-E30E4E43DF5C"
     },
     {
-      "class": "text",
-      "id": "20553DCC-E550-44D9-A872-843D6D4C2A4B"
-    },
-    {
       "class": "group",
       "id": "FDB0134B-63D1-4F69-BB9D-662EA0B50472"
     },
     {
       "class": "text",
       "id": "92B40021-8F2F-4D3C-9797-A7F97848BC2D"
+    },
+    {
+      "class": "group",
+      "id": "285E425D-BDF4-49ED-8AD2-385BB726258E"
     },
     {
       "class": "symbolInstance",

@@ -1,10 +1,11 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "38942FE1-4860-483F-A2DB-79CF06E37783",
+  "do_objectID": "1F270C5F-EF21-4034-A7DD-82354D0780CB",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "58D9B613-2B07-44D4-BED6-DC08F20AF090",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 55.12388373654198,
-    "width": 59.17527326855455,
-    "x": 196.1986469851565,
-    "y": 279.6734938843589
+    "do_objectID": "2A9CC162-ED3A-4EA5-814A-C3BDCF4DF6B3",
+    "height": 43.74683544303797,
+    "width": 43.74683544303796,
+    "x": 45.36708860759493,
+    "y": 49.41772151898734
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,11 +32,11 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "F68015C0-8072-41F9-BEA5-687CFA1ADCD5"
+      "class": "oval",
+      "id": "10223EC6-F3B6-4EDC-8458-7C7DED334900"
     }
   ],
-  "name": "Shape",
+  "name": "Oval",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -42,6 +44,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "F799AAF2-4604-4F2C-8652-31FFEE2A66C6",
     "endMarkerType": 0,
     "fills": [
       {
@@ -49,9 +52,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9137254901960784,
-          "green": 0.5019607843137255,
-          "red": 0.3372549019607843
+          "blue": 0.9637276785714286,
+          "green": 0.6961586361839659,
+          "red": 0.7917190084652024
         },
         "fillType": 0,
         "isEnabled": true,

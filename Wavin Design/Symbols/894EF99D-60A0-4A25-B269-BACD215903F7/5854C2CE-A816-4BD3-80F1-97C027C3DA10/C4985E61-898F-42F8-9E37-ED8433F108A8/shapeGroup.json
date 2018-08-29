@@ -1,10 +1,11 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "38942FE1-4860-483F-A2DB-79CF06E37783",
+  "do_objectID": "C4985E61-898F-42F8-9E37-ED8433F108A8",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "6563617A-BFB9-4976-ABF7-AD8BF6068047",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 55.12388373654198,
-    "width": 59.17527326855455,
-    "x": 196.1986469851565,
-    "y": 279.6734938843589
+    "do_objectID": "3F09AC4F-6325-471F-BD14-6F5CBE0D66DF",
+    "height": 38.07594936708861,
+    "width": 38.0759493670886,
+    "x": 51.03797468354429,
+    "y": 49.41772151898734
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,11 +29,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
-      "id": "F68015C0-8072-41F9-BEA5-687CFA1ADCD5"
+      "id": "06B85542-C4B1-4450-BB58-3D7D9ED3E021"
     }
   ],
   "name": "Shape",
@@ -42,6 +44,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "C672560B-FA00-4089-8477-024FD70D7E3F",
     "endMarkerType": 0,
     "fills": [
       {
@@ -49,9 +52,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9137254901960784,
-          "green": 0.5019607843137255,
-          "red": 0.3372549019607843
+          "blue": 0.8156862745098039,
+          "green": 0.3764705882352941,
+          "red": 0.5333333333333331
         },
         "fillType": 0,
         "isEnabled": true,

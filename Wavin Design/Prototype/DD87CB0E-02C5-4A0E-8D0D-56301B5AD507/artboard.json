@@ -36,7 +36,7 @@
     "y": 5173
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -86,7 +86,7 @@
       "id": "77BDF715-0635-495A-908A-15100590411A"
     }
   ],
-  "name": "Newly joined event Copy",
+  "name": "Newly joined event Participant View",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

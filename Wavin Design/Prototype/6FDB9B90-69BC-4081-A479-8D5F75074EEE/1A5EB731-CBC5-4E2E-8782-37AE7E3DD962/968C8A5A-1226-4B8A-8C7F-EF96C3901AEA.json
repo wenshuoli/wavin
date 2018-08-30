@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "968C8A5A-1226-4B8A-8C7F-EF96C3901AEA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2990F1AA-146D-4F6C-B15A-767CB3861BE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "98D1B1A1-EFF5-455C-A042-4D8F6CFBD54F",
+    "do_objectID": "03438D04-76C8-4D79-8951-B20F82A9E211"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A20EAA9-464E-47C0-95E3-2B7E152F2EEC",
+    "height": 360,
+    "width": 1112,
+    "x": 64,
+    "y": 357
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / Textarea old",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE8C9AEB-F9A8-429A-B958-A35AA22CD4AF",
+      "overrideName": "7D158BC9-D9CF-45D4-AF12-4A5887204767_stringValue",
+      "value": "I’d love to see you all together again. Let’s watch the Fifty Shades of Grey together! I love it! Being the savage's bowsman, that is, the person who pulled the bow-oar in his boat (the second one from forward), it was my cheerful duty to attend upon him while taking that hard-scrabble scramble upon the dead whale's back. You have seen Italian organ-boys holding a dancing-ape by a long cord. "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DBC7E786-C483-420E-AE9D-4F3346BBA8BE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3016CC55-38F5-4A42-80C5-8FA211BC0F5C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

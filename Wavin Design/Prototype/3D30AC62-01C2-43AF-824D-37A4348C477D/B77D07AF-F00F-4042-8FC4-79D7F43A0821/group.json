@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "B77D07AF-F00F-4042-8FC4-79D7F43A0821",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5815436D-76B1-45E5-AADD-96FA9BDDEB9A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2B708470-B6C7-4685-B4AF-4C0401F109BC",
+    "height": 53.33333333333334,
+    "width": 80,
+    "x": 1222,
+    "y": 37
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4C538E20-60C3-43C7-8DA4-E87D633C80B6"
+    }
+  ],
+  "name": "keyboard",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D0B3B170-A842-45F0-83B3-40CAC1F31280",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

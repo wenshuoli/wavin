@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Lato-Bold",
-              "size": 48
+              "size": 30
             }
           },
           "kerning": 0,
@@ -37,11 +37,11 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "2373AF3A-7745-451A-8F40-7702698F735E",
+  "do_objectID": "E0D4112D-A68A-49F0-A253-B4025EB59E7D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A24D9FB2-AA09-4AB5-9869-14C19587A2D5",
+    "do_objectID": "1D70BFD0-688A-4580-89C5-7E0BA41AC9B4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BDFE78A1-1A35-41EA-97D5-BC22F831E9FC",
+    "do_objectID": "48E42800-9735-4FF6-BF96-8ADBC82CFCD3",
     "height": 56,
-    "width": 240,
-    "x": 27,
-    "y": 12
+    "width": 102,
+    "x": 497,
+    "y": 621
   },
-  "glyphBounds": "{{45, 11}, {153, 37}}",
+  "glyphBounds": "{{4, 17}, {96, 24}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -74,14 +74,14 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "91BAF6AD-DBCE-49F8-A2CC-1BA84B6F3B4C",
+    "do_objectID": "D6015D92-F626-41B6-9CAF-19CBCAFCCF49",
     "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "8ED1DFDF-DFF2-42D1-BD43-3558439A68F3",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "478E57E3-062C-4262-94BE-BDA95BE819CA",
+      "do_objectID": "0307E0F6-5967-4139-9918-765E9E1BB72C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -94,7 +94,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Lato-Bold",
-            "size": 48
+            "size": 30
           }
         },
         "kerning": 0,

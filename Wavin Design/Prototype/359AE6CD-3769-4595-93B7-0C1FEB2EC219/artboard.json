@@ -66,8 +66,16 @@
       "id": "35B94F3F-18BA-4BCA-BAA1-A50FB15F376D"
     },
     {
+      "class": "text",
+      "id": "BA6305E2-4249-4DA2-9033-46C030A5478B"
+    },
+    {
       "class": "group",
       "id": "A43FD2D3-4B40-4A5F-B1E2-74117BDC1B57"
+    },
+    {
+      "class": "text",
+      "id": "8187E8E6-EEC9-4EED-99D1-50318E858672"
     },
     {
       "class": "group",
@@ -75,7 +83,15 @@
     },
     {
       "class": "group",
+      "id": "3F07E2AF-2BAF-4878-918E-BF60643F8CEF"
+    },
+    {
+      "class": "group",
       "id": "648E30D8-BBA2-47D0-9DCE-614E7570315A"
+    },
+    {
+      "class": "text",
+      "id": "E0D4112D-A68A-49F0-A253-B4025EB59E7D"
     },
     {
       "class": "group",

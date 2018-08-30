@@ -9,37 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.06666666667,
-            "green": 0.06666666667,
-            "red": 0.06666666667
+            "blue": 0.9137254901960784,
+            "green": 0.5019607843137255,
+            "red": 0.3372549019607843
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
+              "name": "Lato-Bold",
               "size": 30
             }
           },
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 40,
-            "minimumLineHeight": 40
+            "maximumLineHeight": 56,
+            "minimumLineHeight": 56
           }
         },
-        "length": 32,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "At Room 252 in the East Facility"
+    "string": "Movies"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "927C5A6E-80AA-42C2-83D8-AC461CA83764",
+  "do_objectID": "8187E8E6-EEC9-4EED-99D1-50318E858672",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CF3AFA89-10D2-414A-9A9C-059E359B098B",
+    "do_objectID": "701DF76E-394F-42C1-A6EC-61B3881F3429",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7575DD5F-B876-46DB-9EF2-CF5D9E471EB7",
-    "height": 40,
-    "width": 434,
-    "x": 722,
-    "y": 131
+    "do_objectID": "AB10972A-D79E-40C8-A4CB-F5C73E0D1140",
+    "height": 56,
+    "width": 102,
+    "x": 497,
+    "y": 1356
   },
-  "glyphBounds": "{{0, 6}, {427, 29}}",
+  "glyphBounds": "{{4, 17}, {96, 24}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -64,54 +66,49 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "At Room 252 in the E",
+  "name": "Movies",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C852F87C-F227-4EE0-A189-A6FA8F01B5DE",
+    "do_objectID": "19771A5A-1130-4DF7-B5D1-4CD4C9FB23AA",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "8AB6138B-0662-4B06-827B-BC9D597013EC",
+    "sharedObjectID": "8ED1DFDF-DFF2-42D1-BD43-3558439A68F3",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "7F46A5B9-1F28-4497-93BF-B61DEF738526",
+      "do_objectID": "F03217D1-AE7D-4B12-B7C9-D5822AA2ECAF",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.06666666667,
-          "green": 0.06666666667,
-          "red": 0.06666666667
+          "blue": 0.9137254901960784,
+          "green": 0.5019607843137255,
+          "red": 0.3372549019607843
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
+            "name": "Lato-Bold",
             "size": 30
           }
         },
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 40,
-          "minimumLineHeight": 40
+          "maximumLineHeight": 56,
+          "minimumLineHeight": 56
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 0
-      }
-    }
-  }
+  "textBehaviour": 1
 }

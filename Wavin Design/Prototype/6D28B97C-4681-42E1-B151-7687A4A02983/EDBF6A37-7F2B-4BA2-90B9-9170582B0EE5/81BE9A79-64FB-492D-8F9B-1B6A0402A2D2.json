@@ -16,13 +16,12 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Lato-Bold",
+              "name": "Helvetica",
               "size": 30
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 40,
             "minimumLineHeight": 40
@@ -54,10 +53,10 @@
     "do_objectID": "A66FA22D-517B-4489-8070-501B72ABEF2A",
     "height": 40,
     "width": 436,
-    "x": 715,
+    "x": 727,
     "y": 132
   },
-  "glyphBounds": "{{10, 9}, {426, 29}}",
+  "glyphBounds": "{{0, 6}, {427, 29}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -73,14 +72,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6A488F8E-A84E-4604-80EC-F949683146DD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "8AB6138B-0662-4B06-827B-BC9D597013EC",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "293C9518-82D5-4BB3-893C-857584EE762A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -92,13 +89,12 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Lato-Bold",
+            "name": "Helvetica",
             "size": 30
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 40,
           "minimumLineHeight": 40

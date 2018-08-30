@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3333333333333333,
-            "green": 0.3333333333333333,
-            "red": 0.3333333333333333
+            "blue": 0.9137254901960784,
+            "green": 0.5019607843137255,
+            "red": 0.3372549019607843
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Lato-Bold",
-              "size": 48
+              "size": 30
             }
           },
           "kerning": 0,
@@ -29,19 +29,19 @@
             "minimumLineHeight": 56
           }
         },
-        "length": 4,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Back"
+    "string": "Movies"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "74160963-DC28-4459-BF39-91E42CC53DFD",
+  "do_objectID": "A3C6AB1B-5D46-46F7-82AA-925992337C35",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BB7636E2-9A13-406D-82FC-081333992F2D",
+    "do_objectID": "08DFF292-2BB9-4F8F-A673-BFBC57A5DF1F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DBFB0EA2-990F-4E69-BAF8-358875D59D28",
+    "do_objectID": "BC4A0E72-F52E-4AEE-A606-D030D85CEBE8",
     "height": 56,
-    "width": 320,
+    "width": 102,
     "x": 0,
-    "y": 28
+    "y": 0
   },
-  "glyphBounds": "{{110, 11}, {103, 37}}",
+  "glyphBounds": "{{4, 17}, {96, 24}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Back",
+  "name": "Movies",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -74,27 +74,27 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B40E6EFF-39BF-4B2E-A053-A153D4E9DD80",
+    "do_objectID": "B8CEDFFB-48A1-48D8-8714-316884FE554F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "8ED1DFDF-DFF2-42D1-BD43-3558439A68F3",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "3016BD0D-BEFD-4F46-AECB-88D1E17439C2",
+      "do_objectID": "03887C19-ECD8-4699-B9E1-8FC1EFE42BDC",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3333333333333333,
-          "green": 0.3333333333333333,
-          "red": 0.3333333333333333
+          "blue": 0.9137254901960784,
+          "green": 0.5019607843137255,
+          "red": 0.3372549019607843
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Lato-Bold",
-            "size": 48
+            "size": 30
           }
         },
         "kerning": 0,
@@ -110,12 +110,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 0
-      }
-    }
-  }
+  "textBehaviour": 1
 }

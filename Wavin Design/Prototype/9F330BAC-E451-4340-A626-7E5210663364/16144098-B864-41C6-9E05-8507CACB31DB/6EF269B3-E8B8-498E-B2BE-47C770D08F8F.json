@@ -9,37 +9,38 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.06666666667,
-            "green": 0.06666666667,
-            "red": 0.06666666667
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Lato-Bold",
-              "size": 30
+              "size": 24
             }
           },
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 40,
-            "minimumLineHeight": 40
-          }
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 32,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "At Room 252 in the East Facility"
+    "string": "are attending"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
-  "do_objectID": "3E083E09-AED3-4A13-9CDF-ED86074A64ED",
+  "booleanOperation": -1,
+  "do_objectID": "6EF269B3-E8B8-498E-B2BE-47C770D08F8F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "741E4F8C-7596-4443-8AFE-7B290B13D343",
+    "do_objectID": "04EB05A8-4820-4BA8-A476-2F59BC4D00B6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A1BF3421-EEA4-4D62-BE80-30425FD67E20",
+    "do_objectID": "944CBEDD-DB3C-4253-988A-1F4DDEC1E9EC",
     "height": 40,
-    "width": 438,
-    "x": 715,
-    "y": 102
+    "width": 155,
+    "x": 963,
+    "y": 175
   },
-  "glyphBounds": "{{0, 9}, {426, 29}}",
+  "glyphBounds": "{{6, 6}, {144, 23}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -64,47 +65,47 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "At Room 252 in the E",
+  "name": "are attending",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "345DB88F-5F94-4B6B-ABE8-F84170252766",
+    "do_objectID": "67D04EF4-2B5E-4791-8420-B057B8489154",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "8AB6138B-0662-4B06-827B-BC9D597013EC",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "F9212483-48AD-46A8-8C53-A58B358B302F",
+      "do_objectID": "C70876E7-1E7B-4085-BA37-6F4CB59D717D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.06666666667,
-          "green": 0.06666666667,
-          "red": 0.06666666667
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Lato-Bold",
-            "size": 30
+            "size": 24
           }
         },
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 40,
-          "minimumLineHeight": 40
-        }
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 2
 }

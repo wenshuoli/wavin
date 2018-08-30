@@ -28,11 +28,11 @@
             "minimumLineHeight": 56
           }
         },
-        "length": 17,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "7:00 PM Tommorrow"
+    "string": "7:00 PM Tomorrow"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -57,7 +57,7 @@
     "x": 717,
     "y": 72
   },
-  "glyphBounds": "{{2, 11}, {459, 37}}",
+  "glyphBounds": "{{2, 11}, {416, 37}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "7:00 PM Tommorrow",
+  "name": "7:00 PM Tomorrow",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

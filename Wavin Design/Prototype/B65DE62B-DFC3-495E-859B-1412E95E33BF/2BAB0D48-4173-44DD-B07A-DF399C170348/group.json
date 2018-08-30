@@ -1,6 +1,5 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
   "do_objectID": "2BAB0D48-4173-44DD-B07A-DF399C170348",
   "exportOptions": {
     "_class": "exportOptions",
@@ -17,12 +16,11 @@
     "constrainProportions": false,
     "do_objectID": "5BCDD2F9-C940-4F06-90C0-4CCEA532077C",
     "height": 64,
-    "width": 832,
+    "width": 758,
     "x": 64,
     "y": 32
   },
   "hasClickThrough": false,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -47,9 +45,14 @@
   "style": {
     "_class": "style",
     "do_objectID": "5D29E815-E2ED-47A6-B3A9-81358826EA80",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

@@ -1,6 +1,5 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
   "do_objectID": "648E30D8-BBA2-47D0-9DCE-614E7570315A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -28,7 +27,6 @@
     "y": 600
   },
   "hasClickThrough": false,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -52,12 +50,8 @@
       "id": "EB7EAB5A-BC45-4EFD-9B16-8319CC4ED431"
     },
     {
-      "class": "text",
-      "id": "F5B510F7-173C-4807-8AF9-0FF9789C1247"
-    },
-    {
-      "class": "text",
-      "id": "33616F05-D07B-4B47-9008-9F9EEE01F57A"
+      "class": "group",
+      "id": "663A2966-001D-4E9B-B9CC-8DAA900CF49A"
     }
   ],
   "name": "Event 1 Copy 3",
@@ -69,9 +63,14 @@
   "style": {
     "_class": "style",
     "do_objectID": "2A1AE332-D318-4F09-BB13-68D18FB640B8",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   }
 }

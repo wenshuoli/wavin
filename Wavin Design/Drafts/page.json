@@ -1,6 +1,5 @@
 {
   "_class": "page",
-  "booleanOperation": 0,
   "do_objectID": "3F0AAFA6-0F0C-4BBE-A5DF-BDA9A5FA82A8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +26,6 @@
     ]
   },
   "includeInCloudUpload": true,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -51,10 +49,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "verticalRulerData": {
     "_class": "rulerData",

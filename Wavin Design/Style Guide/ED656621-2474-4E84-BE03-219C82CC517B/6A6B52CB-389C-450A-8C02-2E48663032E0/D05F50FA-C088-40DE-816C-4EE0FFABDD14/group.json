@@ -1,6 +1,5 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
   "do_objectID": "D05F50FA-C088-40DE-816C-4EE0FFABDD14",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,7 +21,6 @@
     "y": 663
   },
   "hasClickThrough": false,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -47,10 +45,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "B7C82064-F9E5-4AFA-A0B8-12264422165A",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

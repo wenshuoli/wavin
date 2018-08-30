@@ -20,7 +20,7 @@
         "thickness": 1
       }
     ],
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -41,7 +41,6 @@
     ],
     "miterLimit": 10,
     "sharedObjectID": "7E0C0972-DF65-42B9-BCB8-618640633435",
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   }
 }

@@ -1,6 +1,5 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
   "do_objectID": "F977EACB-54C5-4E7E-B4C5-CE4164B81BC3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,7 +21,6 @@
     "y": 40
   },
   "horizontalSpacing": 0,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -38,6 +36,9 @@
       "value": "Admin"
     }
   ],
+  "overrides": {
+    "5F936AB0-65AA-4790-A543-927D27CCA4EC": "Admin"
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -46,10 +47,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "80FA8ED9-1E0C-4D06-B710-F37B6CFA4CC3",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "symbolID": "132B6041-A871-43F8-992F-298A8AE3B196",
   "verticalSpacing": 0

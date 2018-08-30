@@ -1,6 +1,5 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
   "do_objectID": "3F07E2AF-2BAF-4878-918E-BF60643F8CEF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,23 +15,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A86C0CE3-9178-48E2-A6D4-8F05D7E0B51C",
-    "height": 56,
+    "height": 40,
     "width": 102,
-    "x": 497,
-    "y": 309
+    "x": 500,
+    "y": 329
   },
   "hasClickThrough": true,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "text",
-      "id": "A3C6AB1B-5D46-46F7-82AA-925992337C35"
-    }
   ],
   "name": "Event type",
   "nameIsFixed": true,
@@ -43,9 +37,8 @@
   "style": {
     "_class": "style",
     "do_objectID": "6F6D2F9E-4688-4A4C-B2E2-62B9BA1FCD2B",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   }
 }

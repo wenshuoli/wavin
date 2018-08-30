@@ -1,6 +1,5 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
   "do_objectID": "1F10BEC2-9B8E-47B1-8FAB-9E73156CB1EB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -26,7 +25,6 @@
     "y": 357
   },
   "horizontalSpacing": 0,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -42,6 +40,9 @@
       "value": "I’d love to see you all together again. Let’s watch the Fifty Shades of Grey together! I love it! Being the savage's bowsman, that is, the person who pulled the bow-oar in his boat (the second one from forward), it was my cheerful duty to attend upon him while taking that hard-scrabble scramble upon the dead whale's back. You have seen Italian organ-boys holding a dancing-ape by a long cord. "
     }
   ],
+  "overrides": {
+    "7D158BC9-D9CF-45D4-AF12-4A5887204767": "I’d love to see you all together again. Let’s watch the Fifty Shades of Grey together! I love it! Being the savage's bowsman, that is, the person who pulled the bow-oar in his boat (the second one from forward), it was my cheerful duty to attend upon him while taking that hard-scrabble scramble upon the dead whale's back. You have seen Italian organ-boys holding a dancing-ape by a long cord. "
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -49,10 +50,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "symbolID": "3016CC55-38F5-4A42-80C5-8FA211BC0F5C",
   "userInfo": {

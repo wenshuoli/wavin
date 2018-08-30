@@ -1,6 +1,5 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": -1,
   "do_objectID": "C09AC9E8-1057-44CE-AC49-65FDEEAA2A86",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,7 +21,6 @@
     "y": 158
   },
   "horizontalSpacing": 0,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -32,6 +30,8 @@
   "nameIsFixed": false,
   "overrideValues": [
   ],
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -40,11 +40,16 @@
   "style": {
     "_class": "style",
     "do_objectID": "AC125E04-8108-4AB2-9137-C3CB52BC2ADF",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "symbolID": "E6DFD70B-541B-4DE3-B7CA-6AB10E823A15",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

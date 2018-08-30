@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
+              "name": "Lato-Bold",
               "size": 30
             }
           },
@@ -54,9 +54,9 @@
     "height": 40,
     "width": 434,
     "x": 722,
-    "y": 131
+    "y": 102
   },
-  "glyphBounds": "{{0, 6}, {427, 29}}",
+  "glyphBounds": "{{0, 9}, {426, 29}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -91,7 +91,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
+            "name": "Lato-Bold",
             "size": 30
           }
         },

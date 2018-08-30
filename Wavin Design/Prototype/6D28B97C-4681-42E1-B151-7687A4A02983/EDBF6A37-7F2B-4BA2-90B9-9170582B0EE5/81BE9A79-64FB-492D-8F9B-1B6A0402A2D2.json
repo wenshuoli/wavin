@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
+              "name": "Lato-Bold",
               "size": 30
             }
           },
@@ -54,9 +54,9 @@
     "height": 40,
     "width": 436,
     "x": 727,
-    "y": 132
+    "y": 102
   },
-  "glyphBounds": "{{0, 6}, {427, 29}}",
+  "glyphBounds": "{{0, 9}, {426, 29}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -71,38 +71,7 @@
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "_class": "style",
-    "endMarkerType": 0,
-    "miterLimit": 10,
-    "sharedObjectID": "8AB6138B-0662-4B06-827B-BC9D597013EC",
-    "startMarkerType": 0,
-    "textStyle": {
-      "_class": "textStyle",
-      "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.06666666667,
-          "green": 0.06666666667,
-          "red": 0.06666666667
-        },
-        "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "Helvetica",
-            "size": 30
-          }
-        },
-        "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 40,
-          "minimumLineHeight": 40
-        }
-      },
-      "verticalAlignment": 0
-    },
-    "windingRule": 1
+    "sharedObjectID": "8AB6138B-0662-4B06-827B-BC9D597013EC"
   },
   "textBehaviour": 1,
   "userInfo": {

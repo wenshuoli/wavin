@@ -1,11 +1,11 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "D97796F6-4880-41ED-945F-F49A02548D26",
+  "do_objectID": "76397EDE-C06A-44AF-B218-102039B07099",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3BCD4C8A-73B0-445A-8A82-032DF17BCDEE",
+    "do_objectID": "5398508C-EECD-4B38-AAAA-71630FD23362",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,12 +15,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "27D0882C-DD7E-4634-AC73-351B9625CF4C",
+    "constrainProportions": true,
+    "do_objectID": "A5262DB0-CA54-4A4A-92D6-615602F0095C",
     "height": 72,
     "width": 72,
-    "x": 875,
-    "y": 158
+    "x": 80,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,10 +33,10 @@
   "layers": [
     {
       "class": "oval",
-      "id": "0B105B4B-51F2-4CA4-9A2A-751B7E9FCD8B"
+      "id": "D515A1F6-2A90-4ADA-B8F1-E9817801A875"
     }
   ],
-  "name": "Oval 2",
+  "name": "Oval",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -55,12 +55,12 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 0,
         "thickness": 1
       }
     ],
-    "do_objectID": "304F08AF-8136-4230-824C-0E12A4411F8B",
+    "do_objectID": "984FC437-3DC5-476D-AE2A-BEFF4FA2F006",
     "endMarkerType": 0,
     "fills": [
       {
@@ -68,41 +68,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9137254901960784,
-          "green": 0.5019607843137255,
-          "red": 0.3372549019607843
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
-        "fillType": 0,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.9176470588235294,
-                "green": 0.7254901960784315,
-                "red": 0.3529411764705882
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.8156862745098039,
-                "green": 0.3764705882352941,
-                "red": 0.5333333333333331
-              },
-              "position": 1
-            }
-          ],
-          "to": "{1, 1}"
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/26ed640d870ef2684b864cf21be6e42a615b95db.png",
+          "_ref_class": "MSImageData"
         },
         "isEnabled": true,
         "noiseIndex": 0,

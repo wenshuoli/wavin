@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "6C2AB5D4-77E9-4550-A0AA-49BB2C53CBC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF93E66B-52FE-4F91-81CA-544BE3609531",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D0100C45-5529-46D9-BF1D-F49A671E9017",
+    "height": 112,
+    "width": 1082,
+    "x": 57,
+    "y": 627
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CF22189A-F121-42CD-9B5B-F5EC98F4BA3B"
+    },
+    {
+      "class": "text",
+      "id": "DE93D017-0F4B-4DD5-A997-C947D6A931DD"
+    },
+    {
+      "class": "group",
+      "id": "758D3A4E-7129-4949-B22B-338FEA10E79D"
+    }
+  ],
+  "name": "Confirm Attendance",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "48B432F9-BF18-45B1-AE91-2F10D65CA0C8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "023C8827-0849-4F6C-A03D-9FE3A4F8A5E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8C88BCF9-E1B8-4F97-8054-93F3AFEB6CE8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C3292BF8-9F37-4A2A-AD46-C2B9471066CC",
+    "height": 112,
+    "width": 320,
+    "x": 856,
+    "y": 629
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E4BAC7B4-6437-4199-AE6E-5E0FD796BC87"
+    },
+    {
+      "class": "text",
+      "id": "9D89B74F-09C2-4E17-80A0-4251CF98B404"
+    }
+  ],
+  "name": "Button / Secondary",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E904073E-C092-421A-978E-476BC6177133",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

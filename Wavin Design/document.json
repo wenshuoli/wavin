@@ -120,7 +120,11 @@
   },
   "colorSpace": 0,
   "do_objectID": "710CBB25-66AA-46EF-813F-46C26068610D",
+  "foreignLayerStyles": [
+  ],
   "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -128,9 +132,9 @@
     ]
   },
   "meta": {
-    "appVersion": "49.3",
-    "build": 51167,
-    "version": 101
+    "appVersion": "51.2",
+    "build": 57519,
+    "version": 105
   },
   "pages": [
     "Style Guide",

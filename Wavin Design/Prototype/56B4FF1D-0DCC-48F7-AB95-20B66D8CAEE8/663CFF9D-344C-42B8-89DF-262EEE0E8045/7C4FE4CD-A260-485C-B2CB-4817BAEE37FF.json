@@ -1,5 +1,6 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
   "do_objectID": "7C4FE4CD-A260-485C-B2CB-4817BAEE37FF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,6 +28,7 @@
     "y": 200
   },
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -42,9 +44,6 @@
       "value": "At Room 122 in the East Facility"
     }
   ],
-  "overrides": {
-    "79407F0A-EE15-492B-97AD-0CE6F6668D6B": "At Room 122 in the East Facility"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -53,9 +52,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "B9F9EE50-25F3-45FC-B6B9-07EE8DD01C77",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "EA1253BE-1458-468C-A64F-AC1E3B16B9CE",
   "userInfo": {

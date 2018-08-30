@@ -4,7 +4,7 @@
   "name": "Sketch Measure / Spacing",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -25,6 +25,7 @@
     ],
     "miterLimit": 10,
     "sharedObjectID": "3DAD405F-0A51-4603-A033-249D67699209",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

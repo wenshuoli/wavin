@@ -4,7 +4,7 @@
   "name": "Box / Shadow",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -47,6 +47,7 @@
       }
     ],
     "sharedObjectID": "FF69FD06-213D-4E5F-B0EB-21699EF0B141",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

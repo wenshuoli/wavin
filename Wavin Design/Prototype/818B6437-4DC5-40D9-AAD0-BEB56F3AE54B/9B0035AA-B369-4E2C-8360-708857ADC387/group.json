@@ -1,5 +1,6 @@
 {
   "_class": "group",
+  "booleanOperation": 0,
   "do_objectID": "9B0035AA-B369-4E2C-8360-708857ADC387",
   "exportOptions": {
     "_class": "exportOptions",
@@ -13,9 +14,9 @@
   },
   "flow": {
     "_class": "MSImmutableFlowConnection",
-    "animationType": 1,
-    "destinationArtboardID": "359AE6CD-3769-4595-93B7-0C1FEB2EC219",
-    "do_objectID": "C0A9A456-BAFB-4308-9AB8-A78C3CD6E87F"
+    "animationType": 0,
+    "destinationArtboardID": "4DF5E787-DA86-49B0-88C1-4C89FD3CC01A",
+    "do_objectID": "09B96FF5-1AEC-41E6-ABC8-E11B9A79E9D5"
   },
   "frame": {
     "_class": "rect",
@@ -27,6 +28,7 @@
     "y": 32
   },
   "hasClickThrough": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -51,8 +53,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "3D3FB4FD-1115-4067-AACC-974CDE994243",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

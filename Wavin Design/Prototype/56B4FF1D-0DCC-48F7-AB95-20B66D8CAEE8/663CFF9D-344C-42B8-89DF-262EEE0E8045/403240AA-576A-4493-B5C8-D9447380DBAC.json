@@ -1,5 +1,6 @@
 {
   "_class": "symbolInstance",
+  "booleanOperation": 0,
   "do_objectID": "403240AA-576A-4493-B5C8-D9447380DBAC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,6 +28,7 @@
     "y": 43
   },
   "horizontalSpacing": 0,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -42,9 +44,6 @@
       "value": "10:00 AM on Friday"
     }
   ],
-  "overrides": {
-    "79407F0A-EE15-492B-97AD-0CE6F6668D6B": "10:00 AM on Friday"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -53,9 +52,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "3D4A28FB-9D72-48BF-B6B4-97D2DDE0A856",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "EA1253BE-1458-468C-A64F-AC1E3B16B9CE",
   "userInfo": {

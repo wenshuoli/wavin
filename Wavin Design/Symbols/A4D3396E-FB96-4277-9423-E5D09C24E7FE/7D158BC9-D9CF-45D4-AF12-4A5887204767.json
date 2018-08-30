@@ -1,12 +1,40 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGYGFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOUJFSVFSU1RVWFxVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANYVGV4dGFyZWHTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYATgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz+xERERFLtRIz/wAAAAAAAAIz+xERERFLtRIz+xERERFLtR0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TVOjs8Cj0+P0BBQFtOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAPTlNNYXhMaW5lSGVpZ2h0EASAACNARAAAAAAAAIAS0jQ1Q0RfEBBOU1BhcmFncmFwaFN0eWxlokM40gpGR0hfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AagBTTERIKSk1QoktMgBWAFqJOT4AXgBiAGV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEB5ZTGF0by1Cb2xk0jQ1VldfEBNOU011dGFibGVEaWN0aW9uYXJ5o1Y2ONI0NVlaXxAQTlNGb250RGVzY3JpcHRvcqJbOF8QEE5TRm9udERlc2NyaXB0b3LSNDVdXl8QEk5TQXR0cmlidXRlZFN0cmluZ6JfOF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFiY1Ryb290gAEACAARABoAIwAtADIANwBWAFwAYwBsAHMAgACCAIQAhgCPAJYAngCpAK0ArwCxALMAtwC5ALsAvQC/AOwA/wEhASgBLQEvATEBMwE1AToBPAE+AUABQgFEAUgBTgFTAVkBYgFrAXQBfQGCAY0BlgGjAaYBrwG6AcYB0QHjAfUB9wH5AgICBAIJAhwCHwIkAkECQwJFAkwCTwJRAlMCVgJYAloCXAJyAogCigKUApkCrwKzArgCywLOAuEC5gL7Av4DEwMlAygDLQAAAAAAAAIBAAAAAAAAAGQAAAAAAAAAAAAAAAAAAAMv"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.06666666667,
+            "green": 0.06666666667,
+            "red": 0.06666666667
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Lato-Bold",
+              "size": 30
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 40,
+            "minimumLineHeight": 40
+          }
+        },
+        "length": 8,
+        "location": 0
+      }
+    ],
+    "string": "Textarea"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "7D158BC9-D9CF-45D4-AF12-4A5887204767",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -27,6 +55,7 @@
     "y": 17
   },
   "glyphBounds": "{{0, 10}, {116, 23}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

@@ -144,11 +144,19 @@
     },
     {
       "class": "artboard",
+      "id": "96AE31D7-BAE2-4E39-8C4A-C50CFC7D9282"
+    },
+    {
+      "class": "artboard",
       "id": "097E1459-391F-4613-8BDD-25B52E9053B4"
     },
     {
       "class": "artboard",
       "id": "FCC67F6B-2D12-4978-A2F4-05B408BC6E59"
+    },
+    {
+      "class": "artboard",
+      "id": "920A91B9-415C-4BA8-8E06-32867850C731"
     },
     {
       "class": "artboard",
@@ -161,6 +169,22 @@
     {
       "class": "artboard",
       "id": "1BFB4A66-68B3-4DE7-A3A1-E2ADD334E062"
+    },
+    {
+      "class": "artboard",
+      "id": "DD87CB0E-02C5-4A0E-8D0D-56301B5AD507"
+    },
+    {
+      "class": "artboard",
+      "id": "86F4D9D7-AE69-4F6D-9417-09498BDF678F"
+    },
+    {
+      "class": "artboard",
+      "id": "E553035E-9B30-46B6-BE8A-2C1EFB82E42F"
+    },
+    {
+      "class": "artboard",
+      "id": "7DC520CA-FE62-416F-B706-FF19BF223CB7"
     }
   ],
   "name": "Prototype",

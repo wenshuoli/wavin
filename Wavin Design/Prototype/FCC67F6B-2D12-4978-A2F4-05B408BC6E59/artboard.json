@@ -72,6 +72,10 @@
     {
       "class": "group",
       "id": "3B1BD87A-B3AF-46B9-8CAC-901297CF54CB"
+    },
+    {
+      "class": "group",
+      "id": "37BA28EC-D268-4782-ABB9-E274CD5FFB5A"
     }
   ],
   "name": "Join conflict event",

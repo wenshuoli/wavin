@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "2F6154AD-B6FC-4089-9B83-D0E12BB5D779",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C296CEA3-E87B-4D6C-9671-2F3EBA0A47E3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4712033F-9F5A-4621-AFA4-7F6A889BAC91",
+    "height": 800,
+    "width": 614,
+    "x": 376,
+    "y": 171
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "747D9ED1-0219-4558-B5B1-2C20322A3CFA"
+    },
+    {
+      "class": "group",
+      "id": "DC1E3936-5D0D-4473-8C1A-49E41E703042"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "FF2F9988-771C-4F72-B0D7-E3E97E98D69F"
+    },
+    {
+      "class": "group",
+      "id": "DC0C68C8-4F1B-4529-996E-46D26B8BF82D"
+    },
+    {
+      "class": "group",
+      "id": "0EF3DFA3-D36D-48C6-A92D-90AAF61228D9"
+    },
+    {
+      "class": "group",
+      "id": "8D0B7DA5-E10B-43E7-B511-04CFCA0F9D3B"
+    },
+    {
+      "class": "group",
+      "id": "EB4A5A7C-796E-4046-9A35-BA7B509A0387"
+    },
+    {
+      "class": "group",
+      "id": "17216367-6F5C-498C-8502-9DFDA6AF1067"
+    },
+    {
+      "class": "group",
+      "id": "05732935-CCA4-4BD1-B9B0-42C8C940F4AE"
+    },
+    {
+      "class": "group",
+      "id": "17572C56-8355-48B9-90C2-3CB46DF4BF78"
+    },
+    {
+      "class": "text",
+      "id": "64C565AB-1C6A-4790-8661-C0DCAA5CEA6B"
+    }
+  ],
+  "name": "participant popup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "840A4230-08B4-4231-9FB4-10AF5485A81B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

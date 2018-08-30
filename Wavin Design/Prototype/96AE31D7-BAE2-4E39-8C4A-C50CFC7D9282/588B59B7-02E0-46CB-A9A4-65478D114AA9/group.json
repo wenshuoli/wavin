@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "588B59B7-02E0-46CB-A9A4-65478D114AA9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "33E7A1BD-5FCE-43EB-9968-E1FDE971D4BD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4432F4DC-9522-4C8B-B55F-F22C8B5FFC16",
+    "height": 800,
+    "width": 614,
+    "x": 377,
+    "y": 171
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "70759934-BA5C-4F18-98F5-25CCE2C99243"
+    },
+    {
+      "class": "group",
+      "id": "C94A9AC3-E88D-4ECE-9716-676B667A440D"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "505FD2E4-0BB9-4D95-8738-8351D661C015"
+    },
+    {
+      "class": "group",
+      "id": "94629D9E-4110-4D2E-96CD-5DFBE9BDDE02"
+    },
+    {
+      "class": "group",
+      "id": "C2A9FBBD-FAAD-40A2-B05D-1E3FF218CBF4"
+    },
+    {
+      "class": "group",
+      "id": "39580A91-CA3E-4A77-906F-1C0F0642C3BF"
+    },
+    {
+      "class": "group",
+      "id": "6C0805A5-E1BB-4912-B433-04EBFBBF9471"
+    },
+    {
+      "class": "group",
+      "id": "13E9015F-9293-4DD6-93F8-7E58172132FE"
+    },
+    {
+      "class": "group",
+      "id": "9F87007F-A260-48F8-A119-63D616793CFD"
+    },
+    {
+      "class": "group",
+      "id": "EC40E612-36B5-41BC-965A-041B245DAFC0"
+    },
+    {
+      "class": "text",
+      "id": "CC428801-BD06-4615-8466-0CE7F29F7476"
+    }
+  ],
+  "name": "participant popup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6FDA5C27-F931-4C21-8735-6041F58EB248",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

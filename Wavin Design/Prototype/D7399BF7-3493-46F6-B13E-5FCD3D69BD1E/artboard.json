@@ -39,7 +39,7 @@
     "y": 2599
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -68,6 +68,10 @@
     {
       "class": "group",
       "id": "A9004A81-1DF2-45FF-9B2C-06AD6CB77B73"
+    },
+    {
+      "class": "group",
+      "id": "66BB06C8-09D1-4BDE-817B-18207370FA1A"
     }
   ],
   "name": "Conflict Event Details",

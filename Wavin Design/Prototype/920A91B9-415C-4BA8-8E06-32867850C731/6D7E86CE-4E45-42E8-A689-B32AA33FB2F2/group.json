@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "6D7E86CE-4E45-42E8-A689-B32AA33FB2F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "75F20EB5-1CFC-4324-BF11-AC8E6ED263D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D8D632EE-1FAB-4D35-BE5E-DFF1200466A5",
+    "height": 800,
+    "width": 614,
+    "x": 376,
+    "y": 171
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "41976788-3858-42C5-9CE6-403642E4A821"
+    },
+    {
+      "class": "group",
+      "id": "37208785-A0AA-429D-BB9B-667606175D16"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "25B52457-3CB1-4D3A-9242-CEEA63E3609B"
+    },
+    {
+      "class": "group",
+      "id": "EC16C9DF-1A24-491D-A6CF-D440CBC26F93"
+    },
+    {
+      "class": "group",
+      "id": "B11DE3AE-AF6E-4F6C-96A8-61E608E39EAF"
+    },
+    {
+      "class": "group",
+      "id": "E617790C-7122-4AD3-A85D-0CDE9FD456D6"
+    },
+    {
+      "class": "group",
+      "id": "1993D16C-91CD-4D23-8DCF-C2AB1EFEFCB6"
+    },
+    {
+      "class": "group",
+      "id": "390E048C-C298-421F-BCA0-70F4E5F28DCB"
+    },
+    {
+      "class": "group",
+      "id": "3B4A60C4-0E7D-490A-9B28-8385F74CE954"
+    },
+    {
+      "class": "group",
+      "id": "827380F6-28D6-40FF-8C03-F418EC2E7B5A"
+    },
+    {
+      "class": "text",
+      "id": "9B095FB3-F0FB-4046-9198-A6AFC4BEC9FE"
+    }
+  ],
+  "name": "participant popup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BD629C27-D730-45BE-90B1-5EE31FB48C9F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

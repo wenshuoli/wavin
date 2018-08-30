@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "920A91B9-415C-4BA8-8E06-32867850C731",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 1366,
+    "x": 9254,
+    "y": 5173
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6E62D7AB-F1D2-4AD8-A1B0-5B57BBE35D61"
+    },
+    {
+      "class": "group",
+      "id": "AEBFFBC0-3D4B-4C79-8191-5C7B47155A34"
+    },
+    {
+      "class": "group",
+      "id": "62A7EEF1-9048-430D-9BE8-8C63B1784843"
+    },
+    {
+      "class": "group",
+      "id": "0028F8B1-AE58-4AC7-AAE8-5F2AE2ACC643"
+    },
+    {
+      "class": "group",
+      "id": "E5C61689-CBD0-48F3-809A-7E67448A14C4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3E3A542A-5229-4BAE-B8F9-C360FF1A2A99"
+    },
+    {
+      "class": "group",
+      "id": "6D7E86CE-4E45-42E8-A689-B32AA33FB2F2"
+    }
+  ],
+  "name": "Join conflict event Participant View",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "iPad Pro",
+    "offersLandscapeVariant": 1,
+    "width": 1366
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

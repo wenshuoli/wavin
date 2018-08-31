@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "39D8C331-4E5F-4C0C-B14C-4198C1ED974A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "2C1F415B-2A96-4E56-8114-6D97A7DA0707",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A8B42B5D-01DA-4EF3-B650-9726A029A122",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C56838BD-B35A-473D-B0EE-62620921D0AF",
+    "height": 1024,
+    "width": 1366,
+    "x": 16523,
+    "y": -40
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B9DF54F4-1CCB-4FCF-8353-2C101C53A3C9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "87ADD56F-C26E-47A5-8711-8EB500CF568F"
+    },
+    {
+      "class": "group",
+      "id": "0A13DFCB-0C6A-4480-B9DD-1C7CAAE597A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48EDB857-FC3B-4ADA-B63F-BBE732DF1889"
+    },
+    {
+      "class": "text",
+      "id": "F87AD204-EF28-4EC5-A273-22D6063B7FCD"
+    },
+    {
+      "class": "text",
+      "id": "A56BB8FD-78A9-49AA-AF85-1691C443B7F1"
+    },
+    {
+      "class": "text",
+      "id": "A8FC3E8B-EE7E-4A4E-93A8-2E1664C1B4F3"
+    },
+    {
+      "class": "group",
+      "id": "EEA000E3-AD80-41D6-99AA-007B6A582C3B"
+    }
+  ],
+  "name": "Input Event Description Recording",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "iPad Pro",
+    "offersLandscapeVariant": 1,
+    "width": 1366
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8C2E27DD-53C6-44A3-A4AA-90E98480C002",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5CE050B8-7307-4BDA-98C9-8A4488AECDB6",
+    "guides": [
+    ]
+  }
+}

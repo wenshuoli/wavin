@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "247F7DA7-949F-42CA-BD23-219340938FEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC6831DE-F532-4D7D-80AE-000A077FC341",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A6F93144-DCAA-4133-B03E-B7DD1CAC44F4",
+    "height": 200,
+    "width": 200,
+    "x": 583,
+    "y": 283
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "microphone",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1C4A3145-6786-46E7-A145-D95648712D84",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "81C6A6CD-1021-4DB5-9158-86C1CDA6BAA5",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "67E5BBDA-09B1-455C-82CB-1E6EE3DE3E7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "25EF9556-727F-4049-8E4F-38579C8D9703",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "C8B759AE-0CD2-4D17-AB5F-83F9C147205B",
+    "do_objectID": "608530CF-CDD9-411D-9F47-E21FDD9DA3E8"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CBC469B5-C589-4009-950E-B216B988A3B6",
+    "height": 200,
+    "width": 200,
+    "x": 583,
+    "y": 676
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "microphone",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "92E37A76-0F31-4A69-851C-B46DFAA5B181",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3CBE1D16-4A64-4BC5-8ADF-C57C6DBF9E22",
+  "verticalSpacing": 0
+}

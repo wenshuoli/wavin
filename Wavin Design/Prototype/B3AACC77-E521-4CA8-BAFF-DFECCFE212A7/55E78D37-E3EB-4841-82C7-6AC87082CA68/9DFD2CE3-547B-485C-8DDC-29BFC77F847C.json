@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "9DFD2CE3-547B-485C-8DDC-29BFC77F847C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A93BBAD4-1A54-4312-B5FF-C5EE59C9F31D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "B9DC0640-8E3F-410C-ADE4-31B5947DCFEB",
+    "do_objectID": "4420251E-BD6B-4DA3-91EF-4E55BCE2498C"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FAD3C290-0B81-4127-B729-AF155915AB3E",
+    "height": 112,
+    "width": 800,
+    "x": 376,
+    "y": 200
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / Filled Text Input ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4C74790B-7104-4044-8AB8-964EF0DFF327",
+      "overrideName": "79407F0A-EE15-492B-97AD-0CE6F6668D6B_stringValue",
+      "value": "At Room 122 in the East Facility"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6136CB7B-A24F-48DA-BD35-84A0362F1CD8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EA1253BE-1458-468C-A64F-AC1E3B16B9CE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

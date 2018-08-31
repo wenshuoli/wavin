@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "3B2F9BA3-E428-4E32-BE97-248DD9A7ED0B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B8B23BD-D6AE-4B47-B45B-9A0974EC34E7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "53658E8A-F015-4499-9D05-57D3535424AE",
+    "do_objectID": "94D11B01-FA0E-46F1-996E-ABFAA7465AF4"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B8C91287-F6AC-4D43-8B99-DBB5BC4A3157",
+    "height": 112,
+    "width": 800,
+    "x": 376,
+    "y": 43
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Form / Filled Text Input  Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4C74790B-7104-4044-8AB8-964EF0DFF327",
+      "overrideName": "79407F0A-EE15-492B-97AD-0CE6F6668D6B_stringValue",
+      "value": "10:00 AM on Friday"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC15D7E9-DB78-46DB-9E06-07153B492E79",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EA1253BE-1458-468C-A64F-AC1E3B16B9CE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

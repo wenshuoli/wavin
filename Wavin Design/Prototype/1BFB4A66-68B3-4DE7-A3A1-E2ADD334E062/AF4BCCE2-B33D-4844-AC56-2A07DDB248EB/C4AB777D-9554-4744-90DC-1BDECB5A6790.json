@@ -29,11 +29,11 @@
             "minimumLineHeight": 56
           }
         },
-        "length": 17,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Bob’s Movie Event"
+    "string": "Bob’s Event"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "8C8AC281-97AE-48C9-9C5E-51F5222ECDB2",
     "height": 56,
-    "width": 402,
-    "x": 418.5,
+    "width": 254,
+    "x": 492.5,
     "y": 4
   },
-  "glyphBounds": "{{3, 9}, {398, 39}}",
+  "glyphBounds": "{{3, 9}, {251, 39}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Bob’s Movie Event",
+  "name": "Bob’s Event",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

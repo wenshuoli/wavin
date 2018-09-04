@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "C09AC9E8-1057-44CE-AC49-65FDEEAA2A86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FED37179-532D-4F1F-ADFB-E0FED1C5060B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "7DC520CA-FE62-416F-B706-FF19BF223CB7",
+    "do_objectID": "84DB81FD-9D4B-4CDE-B1A2-500791A90A26"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "48F78E90-EE33-42E3-A83C-836820CAA895",
+    "height": 74.66666666666669,
+    "width": 403,
+    "x": 0,
+    "y": 149.3333333333333
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Participants",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AC125E04-8108-4AB2-9137-C3CB52BC2ADF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E6DFD70B-541B-4DE3-B7CA-6AB10E823A15",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

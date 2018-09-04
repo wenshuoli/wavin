@@ -33,7 +33,7 @@
         "location": 0
       }
     ],
-    "string": "Movies"
+    "string": "Books\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "31872B7D-7826-4380-9DE6-84EDDB06981C",
-    "height": 56,
+    "height": 112,
     "width": 240,
     "x": 60,
     "y": 92
   },
-  "glyphBounds": "{{45, 11}, {153, 37}}",
+  "glyphBounds": "{{57, 11}, {129, 37}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Movies",
+  "name": "Books",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -9,24 +9,24 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.06666666667,
+            "green": 0.06666666667,
+            "red": 0.06666666667
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Lato-Regular",
+              "name": "Lato-Bold",
               "size": 48
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 56,
+            "minimumLineHeight": 56
+          }
         },
         "length": 23,
         "location": 0
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "42A67D80-F1CB-4E12-A46B-C2A06C49119A",
-    "height": 57,
-    "width": 532,
-    "x": 112,
+    "height": 56,
+    "width": 540,
+    "x": 108,
     "y": 456
   },
-  "glyphBounds": "{{4, 11}, {525, 45}}",
+  "glyphBounds": "{{3, 11}, {534, 45}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -76,32 +76,32 @@
     "do_objectID": "C8F25068-6B58-4D1C-99CC-453E9FD5E5E6",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "8ED1DFDF-DFF2-42D1-BD43-3558439A68F3",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "CFD8AA3C-BDA9-488B-8A7F-05C3274F9D55",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.06666666667,
+          "green": 0.06666666667,
+          "red": 0.06666666667
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Lato-Regular",
+            "name": "Lato-Bold",
             "size": 48
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "allowsDefaultTighteningForTruncation": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 56,
+          "minimumLineHeight": 56
+        }
       },
       "verticalAlignment": 0
     },

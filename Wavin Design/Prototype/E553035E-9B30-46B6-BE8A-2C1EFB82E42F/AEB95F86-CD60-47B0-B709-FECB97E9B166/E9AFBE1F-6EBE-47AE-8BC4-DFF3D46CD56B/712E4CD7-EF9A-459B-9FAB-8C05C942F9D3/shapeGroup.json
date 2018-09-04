@@ -1,6 +1,5 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": 0,
   "clippingMaskMode": 0,
   "do_objectID": "712E4CD7-EF9A-459B-9FAB-8C05C942F9D3",
   "exportOptions": {
@@ -24,7 +23,6 @@
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +59,7 @@
       }
     ],
     "do_objectID": "B8F1D8A6-0580-4837-B72C-D6E968E600E3",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -75,7 +73,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/d04a8a2392948b2efbf146e4d8739a75c87cb7e8.png",
+          "_ref": "images/d04a8a2392948b2efbf146e4d8739a75c87cb7e8",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
@@ -86,8 +84,7 @@
       }
     ],
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "windingRule": 1
 }

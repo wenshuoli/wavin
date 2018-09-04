@@ -1,41 +1,12 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.06666666667,
-            "green": 0.06666666667,
-            "red": 0.06666666667
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Lato-Bold",
-              "size": 48
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 56,
-            "minimumLineHeight": 56
-          }
-        },
-        "length": 16,
-        "location": 0
-      }
-    ],
-    "string": "7:00 PM Tomorrow"
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZGVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAeHyAhIisxNT0+P0BBRUlVVldYWVpbXF1fYFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA18QEDc6MDAgUE0gVG9tb3Jyb3fTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAqAEoAcgBtfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7VIyQlCiYnKCkqKVtOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAPTlNNYXhMaW5lSGVpZ2h0EASAACNATAAAAAAAAIAJ0iwtLi9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QEE5TUGFyYWdyYXBoU3R5bGWiLjBYTlNPYmplY3TSCjIzNF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBGAC9MREgo2OTyiNziADIANojo7gA6AD4AQXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQMFlMYXRvLUJvbGTSLC1CQ18QE05TTXV0YWJsZURpY3Rpb25hcnmjQkQwXE5TRGljdGlvbmFyedIsLUZHXxAQTlNGb250RGVzY3JpcHRvcqJIMF8QEE5TRm9udERlc2NyaXB0b3LTERIKSk8dpEtMTU6AE4AUgBWAFqRQUVJTgBeAGIAZgBqAG1NyZWRVYWxwaGFUYmx1ZVVncmVlbiM/sRERERS7USM/8AAAAAAAACM/sRERERS7USM/sRERERS7UdIsLUReokQwEADSLC1hYl8QEk5TQXR0cmlidXRlZFN0cmluZ6JjMF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFmZ1Ryb290gAEACAARABoAIwAtADIANwBYAF4AZQBuAHUAggCEAIYAiACbAKIAqgC1ALoAvAC+AMAAwgDHAMkAywDNAM8A0QDkAQYBMwE6AUUBUQFcAW4BgAGCAYQBjQGPAZQBnwGoAbsBvgHHAcwB6QHrAe0B9AH3AfkB+wH+AgACAgIEAhoCMAIyAjwCQQJXAlsCaAJtAoACgwKWAp0CogKkAqYCqAKqAq8CsQKzArUCtwK5Ar0CwwLIAs4C1wLgAukC8gL3AvoC/AMBAxYDGQMuA0ADQwNIAAAAAAAAAgEAAAAAAAAAaAAAAAAAAAAAAAAAAAAAA0o="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "11F259C6-A502-4FEB-B609-76398B03DB5F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,7 +27,6 @@
     "y": 40
   },
   "glyphBounds": "{{2, 11}, {418, 37}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

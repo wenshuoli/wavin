@@ -1,6 +1,5 @@
 {
   "_class": "MSImmutableHotspotLayer",
-  "booleanOperation": -1,
   "do_objectID": "25B52457-3CB1-4D3A-9242-CEEA63E3609B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +26,6 @@
     "x": 56,
     "y": 24
   },
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

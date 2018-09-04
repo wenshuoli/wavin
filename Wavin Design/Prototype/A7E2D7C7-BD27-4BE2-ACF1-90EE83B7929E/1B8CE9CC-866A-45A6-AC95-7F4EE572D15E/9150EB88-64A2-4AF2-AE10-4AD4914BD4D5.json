@@ -1,41 +1,12 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.06666666667,
-            "green": 0.06666666667,
-            "red": 0.06666666667
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Lato-Bold",
-              "size": 48
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 56,
-            "minimumLineHeight": 56
-          }
-        },
-        "length": 23,
-        "location": 0
-      }
-    ],
-    "string": "Hobby: watching movies."
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGYGFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOUJFSVFSU1RVWFxVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfELtJIGVuam95IHdhdGNoaW5nIGFsbCB0eXBlcyBvZiBtb3ZpZXMgYW5kIHJlYWRpbmcgYm9va3MuIEkgYW0gYSBzZWxmLW1vdGl2YXRlZCwgYW5kIGEgZGlzY2lwbGluZWQgc291bC4gSSBhbSBhbHdheXMga2VlbiB0byB1cC1za2lsbCBteXNlbGYgYnkgbGVhcm5pbmcgbmV3IHRoaW5ncyB3aGVuZXZlciBJIGdldCBhIGNoYW5jZS4g0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgBGAE4AQXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXTERIKICUbpCEiIySACIAJgAqAC6QmJygpgAyADYAOgA+AEFNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/sRERERS7USM/8AAAAAAAACM/sRERERS7USM/sRERERS7UdI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5ojY4WE5TT2JqZWN01To7PAo9Pj9AQUBbTlNBbGlnbm1lbnRaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QD05TTWF4TGluZUhlaWdodBAEgAAjQEQAAAAAAACAEtI0NUNEXxAQTlNQYXJhZ3JhcGhTdHlsZaJDONIKRkdIXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAGoAU0xESCkpNUKJLTIAVgBaiTk+AF4AYgBlfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAeWUxhdG8tQm9sZNI0NVZXXxATTlNNdXRhYmxlRGljdGlvbmFyeaNWNjjSNDVZWl8QEE5TRm9udERlc2NyaXB0b3KiWzhfEBBOU0ZvbnREZXNjcmlwdG9y0jQ1XV5fEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXzhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRYmNUcm9vdIABAAgAEQAaACMALQAyADcAVgBcAGMAbABzAIAAggCEAIYBRAFLAVMBXgFiAWQBZgFoAWwBbgFwAXIBdAGhAbQB1gHdAeIB5AHmAegB6gHvAfEB8wH1AfcB+QH9AgMCCAIOAhcCIAIpAjICNwJCAksCWAJbAmQCbwJ7AoYCmAKqAqwCrgK3ArkCvgLRAtQC2QL2AvgC+gMBAwQDBgMIAwsDDQMPAxEDJwM9Az8DSQNOA2QDaANtA4ADgwOWA5sDsAOzA8gD2gPdA+IAAAAAAAACAQAAAAAAAABkAAAAAAAAAAAAAAAAAAAD5A=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
   "do_objectID": "9150EB88-64A2-4AF2-AE10-4AD4914BD4D5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -52,60 +23,26 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "42A67D80-F1CB-4E12-A46B-C2A06C49119A",
-    "height": 56,
-    "width": 540,
-    "x": 108,
-    "y": 456
+    "height": 120,
+    "width": 984,
+    "x": 128,
+    "y": 425
   },
-  "glyphBounds": "{{3, 11}, {534, 45}}",
-  "isFixedToViewport": false,
+  "glyphBounds": "{{1, 9}, {946, 109}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Hobby: watching movi",
+  "name": "I enjoy watching all",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
-    "_class": "style",
-    "do_objectID": "C8F25068-6B58-4D1C-99CC-453E9FD5E5E6",
-    "endMarkerType": 0,
-    "miterLimit": 10,
-    "sharedObjectID": "8ED1DFDF-DFF2-42D1-BD43-3558439A68F3",
-    "startMarkerType": 0,
-    "textStyle": {
-      "_class": "textStyle",
-      "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.06666666667,
-          "green": 0.06666666667,
-          "red": 0.06666666667
-        },
-        "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "Lato-Bold",
-            "size": 48
-          }
-        },
-        "kerning": 0,
-        "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 56,
-          "minimumLineHeight": 56
-        }
-      },
-      "verticalAlignment": 0
-    },
-    "windingRule": 1
+    "sharedObjectID": "8AB6138B-0662-4B06-827B-BC9D597013EC"
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

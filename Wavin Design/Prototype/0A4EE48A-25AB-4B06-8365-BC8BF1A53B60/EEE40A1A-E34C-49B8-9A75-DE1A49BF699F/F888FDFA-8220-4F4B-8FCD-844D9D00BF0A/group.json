@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "F888FDFA-8220-4F4B-8FCD-844D9D00BF0A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7001EEC6-FA8F-4774-9ECF-E40C40A96326",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "back",
+    "do_objectID": "5DFA30E9-5CB8-409C-9D59-C8FE062B321C"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B08B9231-7D5C-4FED-8C84-3E0F5F5AFCC7",
+    "height": 64,
+    "width": 64,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "037CDBB0-7848-4367-B8F1-528E6D795B3D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EDD56C2C-655D-4E02-8566-7D6DC42DA23E"
+    }
+  ],
+  "name": "back_arrow",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "56E89F86-DE1B-4938-858A-166CF180C347",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

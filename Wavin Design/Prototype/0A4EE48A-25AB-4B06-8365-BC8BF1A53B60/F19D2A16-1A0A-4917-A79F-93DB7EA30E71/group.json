@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "do_objectID": "F19D2A16-1A0A-4917-A79F-93DB7EA30E71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 497,
+    "width": 621,
+    "x": 683,
+    "y": 474
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C6D3354D-B780-49B1-85EF-42682FF4E69D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "600DB26D-C1FA-402F-95DD-7AB5C1D13A9A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "71E9B211-478A-4C86-AE75-9BCCBA350098"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1218080E-BD52-4AF8-BE24-EAA8B9FD1801"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B83D9CA0-7FCE-42FE-B34B-4DF1F55B2936"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9CE94BBC-69FF-44B6-8C65-0EC8C211A49C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "926F7EA8-27E0-47EE-8F33-C9D8E92BF8FB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29D3EFD0-00C9-4302-8263-964B3CE801E6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "82410950-475D-4A98-91BE-0EA306620E0F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EA555615-65FC-405D-A714-03EA8DA8B05F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6B47FAF9-96C5-456D-9743-A3DFC8694582"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62C5647A-3F8C-42F7-B29D-4AB76861C40B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D9CFF61-F70B-474B-84CD-6308D15BD12F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "118C9E52-9272-4D8A-ADA0-CE579A0C4ADC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "292CBC0E-E154-4D77-92AE-30F1C31F3D9D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "10C3D2EA-624C-4EF2-B863-E8120BF12CCF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A04ECEB7-AF2D-49BB-AB5D-7D4606A007E3"
+    }
+  ],
+  "name": "Doreamon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

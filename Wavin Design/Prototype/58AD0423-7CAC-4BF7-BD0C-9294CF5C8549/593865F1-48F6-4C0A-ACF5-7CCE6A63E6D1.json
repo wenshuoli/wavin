@@ -1,0 +1,97 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "593865F1-48F6-4C0A-ACF5-7CCE6A63E6D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C13549D-11CD-4D93-915F-4CBFCA36000C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "86B34AB2-77E9-4801-9149-911D019D2B35",
+    "height": 261,
+    "width": 1366,
+    "x": 0,
+    "y": 763
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI Controls / Pickers / Text_scrolled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "36DF1759-4CFC-4148-9B50-26EB8828F06A_stringValue",
+      "value": "December 2016"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B41E96B3-0D73-4B7D-85C8-79E94C576561_stringValue",
+      "value": "June 2017"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "897D493D-CAE4-4E00-8665-368CB29DF8B5_stringValue",
+      "value": "Done"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7892A9B0-D6EB-45D7-8F34-6DF305068A1B_stringValue",
+      "value": "February 2017"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "13E30179-92C7-422B-9868-F69949F32110_stringValue",
+      "value": "January 2017"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A071A9AC-A129-4718-B99F-6082AEA338AB_stringValue",
+      "value": "March 2017"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1043AD9D-BD14-4E59-A957-1146E3F0CE05_stringValue",
+      "value": "April 2017"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "08B5A0C5-B7A3-4252-A4FC-03C1AB25F36D_stringValue",
+      "value": "May 2017"
+    }
+  ],
+  "overrides": {
+    "08B5A0C5-B7A3-4252-A4FC-03C1AB25F36D": "May 2017",
+    "1043AD9D-BD14-4E59-A957-1146E3F0CE05": "April 2017",
+    "13E30179-92C7-422B-9868-F69949F32110": "January 2017",
+    "36DF1759-4CFC-4148-9B50-26EB8828F06A": "December 2016",
+    "7892A9B0-D6EB-45D7-8F34-6DF305068A1B": "February 2017",
+    "897D493D-CAE4-4E00-8665-368CB29DF8B5": "Done",
+    "A071A9AC-A129-4718-B99F-6082AEA338AB": "March 2017",
+    "B41E96B3-0D73-4B7D-85C8-79E94C576561": "June 2017"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3CE53766-2E44-4EC3-B4C5-9E98BB0C213C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "64404242-C29E-417B-B2AC-46DAB57123E9",
+  "verticalSpacing": 0
+}
